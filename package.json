@@ -1,0 +1,14 @@
+{
+  "name": "habr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.38.1",
+    "@types/node": "^20.7.1",
+    "allure-playwright": "^2.8.1"
+  }
+}
